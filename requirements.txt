@@ -7,4 +7,8 @@ pandas==2.2.1
 plotly==5.19.0
 numpy==1.26.4
 protobuf==4.25.3
-typing-extensions==4.9.0 
+typing-extensions==4.9.0
+packaging==23.2
+click==8.1.7
+watchdog==3.0.0
+cachetools==5.3.2 
